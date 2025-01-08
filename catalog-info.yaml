@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test1
+  description: No description
+spec:
+  type: component
+  lifecycle: production
+  owner: 'group:itransition'
+  system: 'test'
